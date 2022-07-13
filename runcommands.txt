@@ -1,0 +1,3 @@
+node "sever_file location"/index.js
+cd "file path of client" 
+npm start
